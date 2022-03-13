@@ -40,7 +40,7 @@ and autoscale your web app resources manually, or automatically based on demand.
 - https://docs.microsoft.com/en-us/azure/architecture/guide/multitenant/service/app-service
 
 
-### Tutorials: 
+### Extra tutorials for security: 
 Securely connect to Azure services and databases from Azure App Service
 - https://docs.microsoft.com/en-us/azure/app-service/tutorial-connect-overview
 
